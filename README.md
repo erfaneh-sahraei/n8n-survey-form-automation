@@ -42,7 +42,7 @@ An automated workflow built in self-hosted n8n to capture survey submissions, ro
 
 ## Repository Files
 
-- `survey-automation-workflow.json`: Exported n8n workflow definition.
+- `survey form.json`: Exported n8n workflow definition.
 - `README.md`: Project overview and setup documentation.
 
 ---
